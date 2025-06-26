@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.RouteTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-06-26T03:40:22.080Z" hostname="DESKTOP-J8NMR27" time="0.001">
+  <properties/>
+  <testcase name="RouteMostIncomeFl1()" classname="com.example.demo.RouteTest" time="0.0"/>
+  <testcase name="RouteMostIncomeFl2()" classname="com.example.demo.RouteTest" time="0.0"/>
+  <testcase name="RouteRealIncome()" classname="com.example.demo.RouteTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
